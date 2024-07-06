@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## PLAY WITH PROGRAMMING
-<img width="60" height="60" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/>
-<img width="60" height="60" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="60" height="60" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/><img width="60" height="60" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="60" height="60" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
