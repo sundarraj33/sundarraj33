@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## PLAY WITH PROGRAMMING
-<img width="96" height="96" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/>
