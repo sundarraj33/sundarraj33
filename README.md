@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Learning in Javascript
-
 ## PLAY WITH PROGRAMMING
 <img width="60" height="60" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/><img width="60" height="60" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="60" height="60" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/><img width="60" height="60" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/><img width="60" height="60" src="https://img.icons8.com/ios/50/php-logo.png" alt="php-logo"/>
 
