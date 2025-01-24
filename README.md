@@ -4,7 +4,7 @@
 <!--![image](https://github.com/user-attachments/assets/18e1c4bf-21f9-46ea-b4d1-f053461bbbb6) -->
 
 
-## Hi there I am Sundar Raj👋
+## Hi there I am SundarRaj👋
 <!--
 **sundarraj33/sundarraj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
