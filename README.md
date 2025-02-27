@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on National Instructional Media Institute
-- 🌱 I’m currently learning Code
+- 🌱 I’m currently learning Code.
 - 📫 How to reach me: sundarrajcs1@gmail.com // 9486947738
 - ⚡ Fun fact: Learning in Javascript.
 ## PLAY WITH PROGRAMMING
